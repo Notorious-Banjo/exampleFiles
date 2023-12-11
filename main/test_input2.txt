@@ -7,4 +7,4 @@ Trying to type properly is pretty difficult, I cant do the y properly most of th
 69,69
 gt,gt
 asdf,asdf
-gg,gg
+66,66
